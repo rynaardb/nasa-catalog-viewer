@@ -1,2 +1,5 @@
-# nasa-catalog-viewer
-An iOS application for viewing NASA’s catalog of images
+# NASA Image Viewer
+
+## Additioanl Improvements
+
+- Added discloser indicator to table view cells since they show secondary information to the user
